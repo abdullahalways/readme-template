@@ -79,7 +79,7 @@ __This is an Bold text__
 ### **Task list**
 - [x] Task1
 - [x] Task1
-- [] Task1
+- [x] Task1
 
 <br>
 
